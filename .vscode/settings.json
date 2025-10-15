@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "main.C": "cpp",
-        "utils.C": "cpp"
+        "utils.C": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp"
     }
 }
